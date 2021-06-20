@@ -1,24 +1,8 @@
-# js_application
+Application display ten random stories from hackernews in ascending order. Built in Vue.Js.
 
-## Project setup
-```
-npm install
-```
+To setup and run the application: 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. npm install
+2. npm run serve
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
