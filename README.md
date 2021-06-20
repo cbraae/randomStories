@@ -1,4 +1,4 @@
-Application display ten random stories from hackernews in ascending order. Built in Vue.Js.
+Application displays ten random stories from hackernews in ascending order. Built in Vue.Js.
 
 To setup and run the application: 
 
